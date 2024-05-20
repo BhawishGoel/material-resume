@@ -12,9 +12,7 @@ Built using modern web development workflow tools, such as:
 * Materialize SASS as CSS scaffolding
 * And JSON for content layer
 
-With these simple instruction, you'll be able to impress any hiring manager and learn some neat tricks about the latest design and front-end development tools.
-
-#### Preview the result of this workflow at http://paiva.cc
+With these simple instruction, you'll be able to get impressed by any hiring manager and learn some neat tricks about the latest design and front-end development tools.#### Preview the result of this workflow at http://paiva.cc
 
 .
 
